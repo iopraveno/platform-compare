@@ -1,0 +1,4 @@
+# Never commit the unencrypted presentation: this repository is public.
+*.plain.html
+plain/
+.DS_Store
